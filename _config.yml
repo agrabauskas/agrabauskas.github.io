@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Al Grabauskas
+twitter_username: agrabauskas
+name: (Edward) Al Grabauskas (I'm one of the "middle name" guys)
 
 # Build settings
 markdown: kramdown
@@ -33,7 +33,7 @@ skills:
  - Tech Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+####blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
