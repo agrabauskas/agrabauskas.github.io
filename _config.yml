@@ -22,14 +22,14 @@ markdown: kramdown
 
 #Any buzzword skills you want to include
 skills:
- - Technical architecture rchitecture
- - Linux (varioius)
- - Scripting, both shell and otherwise in a variety of languages
- - Cloud (various - Azure, RackSpace, Digital Ocean)
- - Virtualization (various - VMWare. VirtualBox, others under Linux, to varying degrees)
- - Databases - bot DBA work and SQL (Informix, Oracle, MSSql, Firebird/Interbase, and minor experience in some others like DB2)
- - Server admin (Linux, AIX, Windows)
- - Many other things I've almost forgetten I did (MVS and its Assembler, CMS, VMS, REXX, CList... ask and I'll tell you.)
+ - Technical architecture
+ - Linux
+ - Cloud
+ - Scripting, both shell and otherwise
+ - Virtualization
+ - Databases - bot DBA work otherwise
+ - Server admin
+ - Many other things I've almost forgetten I did
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 ####blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -44,14 +44,14 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor's
-   date: 1985
-   subject: Math and Computer Science
-   school: University of Illinois at Chicago
  - level: Master's
    date: 1989
    subject: Computer Science
    school: DePaul University
+ - level: Bachelor's
+   date: 1985
+   subject: Math and Computer Science
+   school: University of Illinois at Chicago
 
 #This section is optional (as is the image link below)
 ####coursera:
