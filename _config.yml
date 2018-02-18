@@ -36,7 +36,17 @@ skills:
 
 #Work experience is required
 roles:
- - title: Contract position converting systems from DOS/VSE to MVS, designing/building new mainframe and client/server systems.
+ - title: Sysadmin/DBA/Programmer/Networking/EverythingElse
+   start: 1996
+   end: present
+   employer: Myself
+   description: Converted a Turbo Pascal financing program to C on AIX, then ended up administering their AIX systems, then ... too much to describe in detail, so... Informix DBA and scripting, Oracle DBA and scripting, PL/SQL, Korn and Bash shell scripting, Windows and Linux server admin, VMware, Azure... I'm sure I'm leaving stuff out... it's been almost a quarter century. Not a bad run for something that started as a six month contract. H/W, S/w, Databases.. pretty much everything.
+ - title: Miscellaneous
+   start: 1996 or 1997
+   end: I forget
+   employer: Myself
+   description: Worked with a friend developing auto body shop s/w. At some point it spawned two different startups, but they both failed, because the startup owners were body shop people, not s/w peopl, and just didn't listen. We did that on and off for maybe a decade 
+- title: Contract position converting systems from DOS/VSE to MVS, designing/building new mainframe and client/server systems.
    start: 1989
    end: 1996
    employer: Some consulting company - the contract was at Cotter & Company
