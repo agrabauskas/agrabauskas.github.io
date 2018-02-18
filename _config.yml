@@ -36,11 +36,11 @@ skills:
 
 #Work experience is required
 roles:
- - title: Sysadmin/DBA/Programmer/Networking/EverythingElse
+ - title: Sysadmin/DBA/Programmer/Networking/EverythingElse for a captive financing company
    start: 1996
    end: present
    employer: Myself
-   description: Converted a Turbo Pascal financing program to C on AIX, then ended up administering their AIX systems, then ... too much to describe in detail, so... Informix DBA and scripting, Oracle DBA and scripting, PL/SQL, Korn and Bash shell scripting, Windows and Linux server admin, VMware, Azure... I'm sure I'm leaving stuff out... it's been almost a quarter century. Not a bad run for something that started as a six month contract. H/W, S/w, Databases.. pretty much everything.
+   description: Converted a Turbo Pascal financing program to C on AIX, then ended up administering their AIX systems, then ... too much to describe in detail, so... Informix DBA and scripting, Oracle DBA and scripting, PL/SQL, Korn and Bash shell scripting, Windows and Linux server admin, VMware, Azure... I'm sure I'm leaving stuff out... it's been almost a quarter century. Not a bad run for something that started as a six month contract. H/W, S/w, Databases.. pretty much everything. 
  - title: Miscellaneous
    start: 1996 or 1997
    end: I forget
