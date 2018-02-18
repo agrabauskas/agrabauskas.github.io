@@ -36,11 +36,16 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Contract position converting systems from DOS/VSE to MVS, designing/building new mainframe and client/server systems.
+   start: 1989
+   end: 1996
+   employer: Some consulting company - the contract was at Cotter & Company
+   description: MVS Assembler, learned Cobol just because it annoyed me that people said I couldn't do it because prior to that I'd refused to. Started doing Windows programming, networking and client/server there - remember Netware and WfW? Ended up going independent during this gig.
  - title: Programmer Analyst
    start: 1985
    end: 1988
    employer: Commonwealth Edison
-   description: MVS Assembler, ISPF, Rexx - various Programmer Analyst sorts of things. Was in systems department - I don't even recall what it was officially called then, but we were doing everything, including MVS operating system exits. I developed a wide variety of things including some primitive mainframe version control software, and wrote developer utilities that enough of the department used that I was require to formalize them prior to leaving, so that they could continue to be used by everyone else.
+   description: MVS Assembler, ISPF, Rexx - various Programmer Analyst sorts of things. Was in systems department - I don't even recall what it was officially called then _ "Computer Technical Analysis", I think, but we were doing everything, including MVS operating system exits. I developed a wide variety of things including some primitive mainframe version control software, and wrote developer utilities that enough of the department used that I was require to formalize them prior to leaving, so that they could continue to be used by everyone else.
 
 #Education is required
 education:
